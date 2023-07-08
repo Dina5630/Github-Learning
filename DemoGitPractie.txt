@@ -1,0 +1,28 @@
+Conlose.log(HelloWorld)
+Conlose.log(Print above consloe)
+Github User Name: Dina5630
+Github Password: Dina@5630
+Github Mail ID: dinadayanithi5630@gmail.com
+
+
+Git Commands:
+
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git branch -M main
+
+git push origin main
+
+
+in case for the first time
+git config --global user.name "someone"
+git config --global user.email "someone@someplace.com"
+
+first step: open Git bash and 
+enter git init it will inaliase an empty repositaory
+secondly: push the command so use below command
+git remote add origin https://github.com/Dina5630/Github-Learning.git
+
